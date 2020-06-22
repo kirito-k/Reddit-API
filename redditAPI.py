@@ -22,6 +22,3 @@ coronaSub = reddit.subreddit("covid19")
 # Print the titles which are currently 'hot' on Reddit
 for post in coronaSub.hot(limit=10):
     print(post.title, "\n")
-
-# Creating a config file is a good way to avoid having the authentication keys
-# directly inside main code
