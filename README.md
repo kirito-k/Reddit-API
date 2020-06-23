@@ -1,5 +1,5 @@
 # Reddit-API
-## Instructions:
+## Instructions
 This is a starters guide for someone who is about to start coding with Reddit's API.
 
 We will be using PRAW, Reddit's API wrapper. API wrappers allows us to perform API calls without worrying about
